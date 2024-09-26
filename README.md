@@ -74,7 +74,7 @@ When assessing aircraft damage, the ranking shifts slightly to Cessna, Piper, Be
 ##### Analysis of Accidents in Different Weather Conditions
 We see that more accidents occur in Visual Meteorological Conditions than in Instrument Meteorological Conditions. This highlights the importance of ongoing analysis together with training and safety initiatives.
 
-#Conclusions
+# Conclusions
 * The steady decline in the number of accidents since 1982 highlights a positive trend in aviation safety, likely attributed to advancements in technology, stricter safety regulations, and better operational practices.  
 * The top 10 most common aircraft models in accidents are Cessna, Piper, and Beech, which dominate the accident statistics. While these models are popular and widely used, they may carry higher risks. However, the data on aircraft damage shows some variation, with Boeing ranking lower in damage severity compared to its accident frequency, indicating that certain models might withstand damage better or be involved in less severe incidents.  
 * A higher number of accidents occurred under Visual Meteorological Conditions (VMC) compared to Instrument Meteorological Conditions (IMC), suggesting that pilots may be more prone to accidents during seemingly favorable weather. This emphasizes the need for better pilot training and stricter operational practices even under VMC.
