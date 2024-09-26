@@ -1,9 +1,9 @@
 # Project Overview:
 As part of our strategic expansion into the aviation sector, this project aims to identify optimal aircraft for commercial and private operations while minimizing risk. We will conduct a comprehensive risk analysis of various aircraft models, utilizing a data-driven approach to evaluate key factors such as:
 
-*Accident Trends Over The Years
-*Environmental Factors
-*Aircraft Specification
+* Accident Trends Over The Years
+* Environmental Factors
+* Aircraft Specification
 
  The final deliverable will consist of actionable insights to guide purchasing decisions for our aviation division.
 
