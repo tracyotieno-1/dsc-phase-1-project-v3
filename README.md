@@ -11,7 +11,7 @@ Key factors to be evaluated include:
 The aim is to identify aircraft that offer a balanced trade-off between cost, safety, operational efficiency, and long-term profitability. The final deliverable will consist of actionable insights that will help the head of the aviation division make informed decisions about which aircraft to purchase
 
 
-## Business Understanding
+# Business Understanding
 ##### Problem Statement
 
 The company is expanding into the aviation sector and needs to determine which aircraft models to purchase for both commercial and private operations. The key challenge is to select aircrafts that minimize financial and operational risks. This requires conducting a comprehensive risk analysis based on accident data, geographical factors, and operational costs, ensuring the chosen aircraft provide an optimal balance between cost, safety, efficiency, and profitability.
@@ -41,3 +41,21 @@ The assumptions made when conducting this analysis are:
 ##### Limitations
 
 * There are data from early years (1962 to 1980) have very few data collected
+
+##### Stakeholders
+
+The head of the new aviation division 
+
+# Data Understanding and Analysis
+##### Source
+The data is sourced from the National Transportation Safety Board. It includes aviation accident data from 1962 to 2023 about civil aviation accidents and selected incidents in the United States and international waters.
+
+##### Data Description
+The dataset contains records of aviation accidents from 1962 to 2023. Each record includes various attributes that can be analyzed for trends and insights.
+
+Key attributes used include Accident Number, Event Date, Aircraft Damage, and Make & Model. These attributes provide valuable insights into areas such as Accident Trends, Risk Assessment, Aircraft Reliability, and Environmental Influence.
+
+##### Visualizations
+1. Accident Trends Over Time
+
+
